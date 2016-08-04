@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\C# codes\Test2\Test2\obj\x86\Debug\Test2.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\C# codes\Test2\Test2\bin\Debug\Test2.exe.config
+C:\Users\user\Desktop\C# codes\Test2\Test2\bin\Debug\Test2.exe
+C:\Users\user\Desktop\C# codes\Test2\Test2\bin\Debug\Test2.pdb
+C:\Users\user\Desktop\C# codes\Test2\Test2\bin\Debug\nunit.framework.dll
+C:\Users\user\Desktop\C# codes\Test2\Test2\bin\Debug\nunit.framework.xml
+C:\Users\user\Desktop\C# codes\Test2\Test2\obj\x86\Debug\Test2.exe
+C:\Users\user\Desktop\C# codes\Test2\Test2\obj\x86\Debug\Test2.pdb
